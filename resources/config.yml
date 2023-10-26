@@ -49,7 +49,7 @@ Broadcast:
 Command:
 
   # This is name of the command that will be executed to use the plugin
-  Name: "/enchant"
+  Name: "/menchant"
 
   # This is the command's description shown in the command window
   Description: "Adds enchantments on items"
@@ -60,7 +60,7 @@ Command:
     Enabled: true
 
     # This is the command's usage permission
-    Node: "maxenchants.enchant"
+    Node: "menchants.enchant"
 
   # This is an option to override an existing command with the one from MaxEnchants
   # Keeping this true makes sure that there are not two types of the same command
